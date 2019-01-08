@@ -8,193 +8,138 @@ sidebar:
 
     # Profile information
     name: Shibin T V
-    tagline: Full Stack Developer && A Machine Learning Enthusiasit
+    tagline: Full Stack Developer && A Machine Learning Enthusiast
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: shibintv@hotmail.com; shibintv@tamu.edu
+    phone: 979-739-70xx
+    # website: blog.webjeda.com #do not add http://
+    linkedin: shibintv
+    github: akg92
     gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    bitbucket: shibintv
+    twitter: '@shibintv'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Malayalam
         level: Native
-
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Hindi
+        level: Professional
+
+      - idiom: Tamil
         level: Professional
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
+      - item: Coding
         link:
 
       - item: Cooking
         link:
 
+      - item: Philosophy
+        link:
+
 career-profile:
-    title: Career Profile
+    title: Career Motive
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
-
+      Let's build something great together. Life is a journey with ending. Make it worth to remember......
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MS in Computer Science
+      university: Texas A&M
+      time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Area of interest
+          - Software Engineering
+          - Machine Learning
+          - Distributed & Cloud Computing
+        Projects
+          - Person ReIdentification with deep neural network. Top 10 accuracy of 98.01% achieved. Par with current research.
+          - ICU readmission prediction for cardiovascular disease on MIMIC-III dataset. AUROC of 89% achieved. 
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: B.Tech in Computer Science and Engineering
+      university: National Institute of Technology, Calicut
+      time: 2010 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Projects
+          - Libreary semanitic search engine which enable user to search complex queries.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Developer
+      time: 2014 - 2018
+      company: Sap Labs, Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Worked as a developer in SAP Labs Bangalore. 
+          -  Built a cloud integration platform to accelerate internal development and assist in the easy delivery of solutions for customized SAP cloud products. Reduced the internal development time from 4 weeks to 1 week by automating mechanisms like db operations, code packaging, code deployment etc and providing convenient extensibility hooks.
 
-          - Bullet point
-          - Bullet point
+          -  Investigated various storage mechanism to improve Business Intelligence information storage. Developed new storage abstraction layer in Java and C++ by combining Relational DB and Graph DB.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Developed natural language query to SQL parser for analytical queries. The underlying technologies used were dependency tree(Nlp4J), word2vector, Java, and SQL.
+          
+          - Implemented commentary feature for Business Intelligence reports. Development included designing storage schema, Restful API design and developement, generic commentary framework API.
 
-          - Bullet point
-          - Bullet point
+          -  Implemented SSH file transfer protocol, developed collaboration framework & APIs for analytical reports in C++ and Java respectively. Debugged and fixed various code issues, improved the unit test framework.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+
+
 
 projects:
-    title: Projects
+    title: Personal Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+      Personal projects are apart from company work and academic works.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Fantasy Premier League player selection predive model.
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
+        tagline: "A predicitive modeling for FPL player selection."
+      - title: Stillista
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: A software to reeduce the returnning of online shopped items.
+#publications:
+#    title: Publications
+#    intro: |
+#
+#    papers:
+#      - title: The Art of Computer Programming
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 90%
 
+      - name: Python & Django
+        level: 80%
+      
       - name: Javascript & jQuery
-        level: 98%
+        level: 70%
+      - name: Scala
+        level: 60%
+      - name : SQL
+        level: 70%
+      - name: Kera & PyTorch
+        level: 70%
 
       - name: Angular
-        level: 98%
-
+        level: 70%
+      
       - name: HTML5 & CSS
-        level: 95%
+        level: 60%
 
       - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Linux
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Let's Keep in Touch.............
